@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    background-color: #F8F8FF;
+}
+h1{
+    color:red;
+    text-align: center
+}
+h2{
+    color:blue;
+}
+h3{
+    color:green;
+}
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: burlywood;
+}
+.img1{
+    width: 700px;
+    height: 500px;
+}
+.img2{
+    width: 700px;
+    height: 500px;
+}
+.img4{
+    width: 700px;
+    height: 500px;
+}
+.img5{
+    width: 700px;
+    height: 500px;
+}
+.img6{
+    width: 700px;
+    height: 500px;
+}
+.img7{
+    width: 700px;
+    height: 500px;
+}
+.img8{
+    width: 700px;
+    height: 500px;
+}
+.img9{
+    width: 700px;
+    height: 500px;
+}
+.img10{
+    width: 700px;
+    height: 500px;
+}
+.img23{
+    width: 700px;
+    height: 500px;
+}
+code{
+    background-color: lightgray;
+}
+.listc{
+    text-align: center;
+}
+.list{
+    text-align: left;
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+}
